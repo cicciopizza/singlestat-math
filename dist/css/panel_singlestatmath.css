@@ -3,6 +3,7 @@
   display: table;
   width: 100%;
   height: 100%;
+  margin-top: -6px;
 }
 
 .singlestatmath-panel-value-container {
